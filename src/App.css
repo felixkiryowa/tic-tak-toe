@@ -1,10 +1,10 @@
 .App {
   text-align: center;
+  color: purple;
+  font-family: 'Courier New', Courier, monospace;
 }
 
-.App-logo {
-  height: 40vmin;
-}
+
 
 .App-header {
   background-color: #282c34;
